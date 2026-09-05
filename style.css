@@ -1,0 +1,10 @@
+p {
+    color: crimson;
+}
+
+button {
+    background-image: url(images/gaster.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
